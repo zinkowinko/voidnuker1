@@ -1,0 +1,14 @@
+{
+  "token": "MTMxMTkzMzE1MzczNjI2MTY0Mw.G-g2QU.vYo-Z64RjwIuFcZw_fe__YdkucANJ7xGAP8FvE",
+  "prefix": "+",
+  "status": {
+    "isenabled": true,
+    "type": "idle"
+  },
+  "activity": {
+    "type": "listening",
+    "text": "Discord Servers | +setup",
+    "isenabled": true
+  },
+  "whitelistbool": true
+}
